@@ -4,5 +4,9 @@
   "main": "src/index.js",
   "author": "vexy",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "uuid": "^11.1.0"
+  }
 }
